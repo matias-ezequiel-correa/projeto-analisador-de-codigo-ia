@@ -9,10 +9,10 @@
 </p>
 
 ## Design:
-[<p align="center"><img height="400em" src="./src/design/design-desktop.png" alt="Analisador de Código com IA - Versão Desktop">]("")<p>
+[<p align="center"><img height="400em" src="./src/design/analisador-codigo-ia-design-desktop.png" alt="Analisador de Código com IA - Versão Desktop">]("")<p>
 
 * Mobile:
-[<p align="center"><img width=250 src="./src/design/design-mobile.png" alt="Analisador de Código com IA - Versão Mobile">]("")<p>
+[<p align="center"><img width=250 src="./src/design/analisador-codigo-ia-design-mobile.png" alt="Analisador de Código com IA - Versão Mobile">]("")<p>
 
 ## Como funciona:
 
