@@ -14,22 +14,17 @@
 * Mobile:
 [<p align="center"><img width=250 src="./src/design/design-mobile.png" alt="Analisador de Código com IA - Versão Mobile">]("")<p>
 
-### 🔗 Link do Projeto: <a href="LINK-DO-PROJETO" target="_blank">LINK-DO-PROJETO</a>
-
 ## Como funciona:
 
 1. O usuário cola o código na caixa de texto.
 2. Ao clicar em **Analisar código**, o React envia o código para a **API do Gemini** através do arquivo `src/services/gemini.js`.
-3. A IA responde seguindo um formato definido no prompt: **❌ Principal problema** e **✅ Solução rápida**.
-4. A resposta é separada e mostrada em dois blocos coloridos, um vermelho para o problema e um verde para a solução.
+3. A resposta é separada e mostrada em dois blocos coloridos, um vermelho para o problema e um verde para a solução.
 
 ## Funcionalidades:
 
 * Análise de código com IA (JavaScript, HTML, CSS e outras linguagens)
 * Resposta objetiva, dividida em problema e solução
-* Indicador de carregamento enquanto a IA responde
 * Botão para limpar o código e o resultado
-* Tratamento de erros da API
 * Layout responsivo (desktop e mobile)
 
 ## Instruções para executar o projeto:
@@ -64,5 +59,5 @@
 <div> 
   <a href="https://instagram.com/maticorrea10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://matiasecorrea19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matías-ezequiel-correa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/matias-ezequiel-correa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
